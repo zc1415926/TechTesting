@@ -1,0 +1,13 @@
+﻿<Window x:Class="SplashScreenTest.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SplashScreen" Height="219" Width="538"
+        WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen"
+        Loaded="SplashScreenLoaded">
+    <Window.Background>
+        <ImageBrush ImageSource="Assets/RhjxxYSKT.png"/>
+    </Window.Background>
+    <Grid>
+        
+    </Grid>
+</Window>
